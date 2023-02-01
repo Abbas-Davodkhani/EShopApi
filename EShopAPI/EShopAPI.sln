@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EShopAPI", "EShopAPI.csproj", "{B3B01BD7-25FC-408B-AACB-F8844785B8CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShopApi.Test", "..\EShopApi.Test\EShopApi.Test.csproj", "{0DD0DEFE-31A7-400C-84A4-5650AD4C0C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShopWeb", "..\EShopWeb\EShopWeb.csproj", "{A6428AEE-9572-4CE6-BE25-82139B9A9D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3B01BD7-25FC-408B-AACB-F8844785B8CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B01BD7-25FC-408B-AACB-F8844785B8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B01BD7-25FC-408B-AACB-F8844785B8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B01BD7-25FC-408B-AACB-F8844785B8CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD0DEFE-31A7-400C-84A4-5650AD4C0C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD0DEFE-31A7-400C-84A4-5650AD4C0C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD0DEFE-31A7-400C-84A4-5650AD4C0C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD0DEFE-31A7-400C-84A4-5650AD4C0C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6428AEE-9572-4CE6-BE25-82139B9A9D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6428AEE-9572-4CE6-BE25-82139B9A9D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6428AEE-9572-4CE6-BE25-82139B9A9D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6428AEE-9572-4CE6-BE25-82139B9A9D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1B6FDD8-56D9-41A6-AF7F-73227202173D}
+	EndGlobalSection
+EndGlobal
