@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kQ8l6btamX+MRw5aMCufjxNtWMrAUaiFqV88qwZq/02AkUvYAzhC98YJzH0a8Y1HAj4zK6YkHOVfczfT1betSA==",
+  "dgSpecHash": "v7qyvCw3V89pdmrfJRCV9poKZaxQw2+oJfVRxAmAAq6hxGvZFnrRWDLjZhWu8Xq0qseZGXh0zzm/1G1r49t9sA==",
   "success": true,
   "projectFilePath": "E:\\New folder\\API-EShop\\EShopApi.Test\\EShopApi.Test.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\MesterComputer.com\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\MesterComputer.com\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\MesterComputer.com\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\MesterComputer.com\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.2\\microsoft.aspnetcore.authentication.jwtbearer.7.0.2.nupkg.sha512",
     "C:\\Users\\MesterComputer.com\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Users\\MesterComputer.com\\.nuget\\packages\\microsoft.aspnetcore.authorization.policy\\2.2.0\\microsoft.aspnetcore.authorization.policy.2.2.0.nupkg.sha512",
     "C:\\Users\\MesterComputer.com\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

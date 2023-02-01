@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "e2iXNIwIXAeDT3iPZhBNMoT01uXdU+LWkB1T8niPwiXr3rQ2FeOysshd9QBbdagSDdDFjabdTVGPml0oVKf9kw==",
+  "dgSpecHash": "ZJiYB3z8K2ROALwq3Xi291OmxlOtqizmkXp5YaG9kjDVNpIpR3TAOYkJ683QBEZJ5U3LkMuBkRu6EKhZL/yq/g==",
   "success": true,
   "projectFilePath": "E:\\New folder\\API-EShop\\EShopAPI\\EShopAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MesterComputer.com\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\MesterComputer.com\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\MesterComputer.com\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\MesterComputer.com\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.2\\microsoft.aspnetcore.authentication.jwtbearer.7.0.2.nupkg.sha512",
     "C:\\Users\\MesterComputer.com\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\MesterComputer.com\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\MesterComputer.com\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
